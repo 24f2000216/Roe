@@ -2,7 +2,7 @@
 
 A comprehensive DevOps demonstration of CI/CD pipelines using GitHub Actions matrix builds for parallel execution across multiple platforms and configurations.
 
-**Author Email**: your.email@example.com
+**Author Email**: 24f2000216@ds.studey.iitm.ac.in
 
 ## 📋 Overview
 Email :24f2000216@ds.study.iitm.ac.in
