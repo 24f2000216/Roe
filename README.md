@@ -5,7 +5,7 @@ A comprehensive DevOps demonstration of CI/CD pipelines using GitHub Actions mat
 **Author Email**: your.email@example.com
 
 ## 📋 Overview
-
+Email :24f2000216@ds.study.iitm.ac.in
 This project demonstrates modern CI/CD practices by implementing a sophisticated matrix build strategy that:
 
 - Builds software across **3 different operating systems** (Ubuntu, Windows, macOS)
